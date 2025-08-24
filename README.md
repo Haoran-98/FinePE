@@ -5,4 +5,3 @@ The subtraits folder contains QA data for 60 subtraits of personality, totaling 
 
 Within the prompt directory, there are two JSON files: system_prompt, which contains prompts for high-level personality traits, and system_opposite_prompt, which includes prompts for low-level personality traits. 
 
-All code will be made open-source upon the publication of the paper.
